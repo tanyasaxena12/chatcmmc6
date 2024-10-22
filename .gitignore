@@ -4,6 +4,7 @@ src/views/accessToken.json
 
 # dependencies
 /node_modules
+src/views/accessToken.json
 
 .env
 
@@ -26,3 +27,4 @@ src/views/accessToken.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/views/accessToken.json
