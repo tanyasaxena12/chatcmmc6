@@ -4,6 +4,9 @@ src/views/accessToken.json
 
 # dependencies
 /node_modules
+
+.env
+
 /.pnp
 .pnp.js
 
